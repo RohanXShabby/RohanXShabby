@@ -6,7 +6,14 @@
 
 ###
 
-<p align="left">👀 I’m passionate about web development and building interactive, user-friendly websites.<br>🌱 Currently learning advanced front-end and back-end technologies.<br>💞️ Open to collaborating on exciting web projects and open-source contributions.<br>📫 Reach me at: rohan20ctbisht@gmail.com<br>⚡ Fun fact: I love coding late at night and gaming in my free time!</p>
+<p align="left">
+  👨‍💻 Full-stack developer with expertise in modern front-end and back-end technologies.<br>
+  🌱 Currently expanding knowledge in Web3, Rust, and AI/ML to build next-generation applications.<br>
+  🤝 Open to collaborating on innovative projects, startups, and open-source initiatives.<br>
+  📫 Contact: rohan20ctbisht@gmail.com<br>
+  ⚡ Beyond development, I enjoy late-night coding sessions and exploring emerging technologies.
+</p>
+
 
 ###
 
