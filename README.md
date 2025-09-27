@@ -14,32 +14,32 @@
 
 ### 🚀 Tech Stack
 
-**Frontend:**  
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg "HTML5")  
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg "CSS3")  
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "JavaScript")  
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg "React")  
-![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg "Next.js")  
-![Tailwind](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg "TailwindCSS")  
+**Frontend**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="24" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="24" />  
 
-**Backend:**  
-![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg "Node.js")  
-![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg "Express")  
-![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg "MongoDB")  
+**Backend**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="24" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="24" />  
 
-**Tools & Platforms:**  
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg "Git")  
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg "GitHub")  
-![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg "VS Code")  
-![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg "Figma")  
-![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg "AWS")  
+**Tools & Platforms**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="24" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="24" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="24" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="24" />  
 
 ---
 
 ### 📊 GitHub Insights
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RohanXShabby&layout=compact&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohanXShabby&theme=github-dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RohanXShabby&layout=compact&theme=dark&hide_border=true" height="140" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohanXShabby&theme=github-dark&hide_border=true" height="140" />
 </p>
 
 ---
