@@ -1,88 +1,53 @@
-<h2 align="left">👋 Hi, I’m Rohan Bisht !</h2>
+<h1 align="left">👋 Hi, I’m Rohan Bisht</h1>
+<h3 align="left">💻 Full-Stack Web Developer | Tech Enthusiast</h3>
 
-###
+---
 
-<h2 align="left">💻 Web Developer | Tech Enthusiast</h2>
+### 👨‍💻 About Me
+- Full-stack developer skilled in modern front-end & back-end stacks  
+- Exploring **Web3, Rust, and AI/ML** for next-gen applications  
+- Open to **collaborations, startups, and open-source projects**  
+- 📫 Reach me at **rohan20ctbisht@gmail.com**  
+- ⚡ Love late-night coding & exploring emerging tech  
 
-###
+---
 
+### 🚀 Tech Stack
+
+**Frontend:**  
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg "HTML5")  
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg "CSS3")  
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "JavaScript")  
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg "React")  
+![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg "Next.js")  
+![Tailwind](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg "TailwindCSS")  
+
+**Backend:**  
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg "Node.js")  
+![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg "Express")  
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg "MongoDB")  
+
+**Tools & Platforms:**  
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg "Git")  
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg "GitHub")  
+![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg "VS Code")  
+![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg "Figma")  
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg "AWS")  
+
+---
+
+### 📊 GitHub Insights
 <p align="left">
-  👨‍💻 Full-stack developer with expertise in modern front-end and back-end technologies.<br>
-  🌱 Currently expanding knowledge in Web3, Rust, and AI/ML to build next-generation applications.<br>
-  🤝 Open to collaborating on innovative projects, startups, and open-source initiatives.<br>
-  📫 Contact: rohan20ctbisht@gmail.com<br>
-  ⚡ Beyond development, I enjoy late-night coding sessions and exploring emerging technologies.
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RohanXShabby&layout=compact&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohanXShabby&theme=github-dark&hide_border=true" height="150" />
 </p>
 
+---
 
-###
-
-<h2 align="left">🚀 Tech Stack</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
-
-<p align="left">💻 Frontend: HTML, CSS, JavaScript, React, Next.js<br>🛠️ Backend: Node.js, Express, MongoDB<br>🎨 Tools & Platforms: Git, GitHub, VS Code, Figma<br><br>Let's connect and build something amazing! 🚀</p>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RohanXShabby&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohanXShabby&theme=github-dark" height="150" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/the_shabby__" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:rohan20ctbisht@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/rohan-bisht-7240a9246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/HeyShabby_02?t=IUmBlxBmsJx8r1L67JuQuw&s=09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-###
+### 🌐 Connect With Me
+<p align="left">
+  <a href="mailto:rohan20ctbisht@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rohan-bisht-7240a9246"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/HeyShabby_02"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.instagram.com/the_shabby__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
