@@ -1,6 +1,6 @@
 # Hi, I'm Rohan Bisht 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&width=435&lines=Full-Stack+Developer;MERN+Stack+Specialist;Web3+%26+AI%2FML+Explorer;Building+Modern+Web+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&width=435&lines=Full-Stack+Developer;MERN+Stack+Specialist;Web3+%26+AI%2FML+Explorer;Building+Modern+Web+Apps)](https://rohanbisht.tech)
 
 ## About Me
 - 🔭 Full-stack developer specializing in **MERN Stack**
